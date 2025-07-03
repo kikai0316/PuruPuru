@@ -1,0 +1,14 @@
+{
+  "family": "Jp",
+  "myFriends": "私の友達",
+  "postsbyMe": "私が投稿した友達",
+  "friendsOfFriends": "友達の友達",
+  "noPosts":"投稿はありません",
+  "postedBy":"投稿者",
+  "addFriends":"友達追加",
+  "profile":"プロフィール",
+  "followers":"フォロワー",
+  "following":"フォロー",
+  "likes":"いいね",
+  "editProfile":"プロフィール編集"
+}

@@ -1,0 +1,14 @@
+{
+  "family": "En",
+  "myFriends": "MyFriends",
+  "postsbyMe": "Posts by Me",
+  "friendsOfFriends": "Friends of Friends",
+  "noPosts":"There are no posts",
+  "postedBy":"Posted By",
+  "addFriends":"add Friends",
+  "profile":"Profile",
+  "followers":"Followers",
+  "following":"Following",
+  "likes":"Likes",
+  "editProfile":"Edit Profile"
+}
