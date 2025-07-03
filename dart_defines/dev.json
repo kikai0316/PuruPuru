@@ -1,0 +1,22 @@
+{
+    "flavor": "dev",
+    "googleServices": "google-services-Dev.json",
+    "appName": "sup. dev",
+    "appIdSuffix": ".dev",
+    "appId": "com.islez.sup",
+    "api":"https://f205-221-242-19-2.ngrok-free.app",
+
+    "firebaseAndroidApiKey": "AIzaSyAChdf7dcabAJI-1W06R3zN-lVJgIwD3Yw",
+    "firebaseAndroidAppId": "1:1037955322294:android:41b8d4b195546e4fb8b117",
+    "firebaseAndroidMessagingSenderId": "1037955322294",
+    "firebaseAndroidProjectId": "sup-dev-edc86",
+    "firebaseAndroidStorageBucket": "sup-dev-edc86.firebasestorage.app",
+
+    "firebaseIosAppIdKey": "app-1-1037955322294-ios-760004bcf9b91626b8b117",
+    "firebaseIosApiKey": "AIzaSyDvrGEfVWfb62djhaGRMg3C132MIB4Jb3w",
+    "firebaseIosAppId": "1:1037955322294:ios:760004bcf9b91626b8b117",
+    "firebaseIosMessagingSenderId": "1037955322294",
+    "firebaseIosProjectId": "sup-dev-edc86",
+    "firebaseIosStorageBucket": "sup-dev-edc86.firebasestorage.app",
+    "firebaseIosIosBundleId": "com.islez.sup.dev"
+  }

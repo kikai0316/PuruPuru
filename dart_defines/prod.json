@@ -1,0 +1,23 @@
+{
+    "flavor": "prod",
+    "googleServices": "google-services-Prod.json",
+    "appName": "sup.",
+    "appIdSuffix": "",
+    "appId": "com.islez.sup",
+    "api":"https://prod.sup-api.com",
+
+    "firebaseAndroidApiKey": "AIzaSyCQsMsrR0dtXuQzqRh3CRtFRfsYRUhhqgM",
+    "firebaseAndroidAppId": "1:1025689363688:android:faa6b458122a94200b155d",
+    "firebaseAndroidMessagingSenderId": "1025689363688",
+    "firebaseAndroidProjectId": "sup-prod",
+    "firebaseAndroidStorageBucket": "sup-prod.firebasestorage.app",
+
+    "firebaseIosAppIdKey": "app-1-1025689363688-ios-d8f80fc6560caa290b155d",
+    "firebaseIosApiKey": "AIzaSyANcf7B4p6odKrPYFkLIbfNu2mwaAk59Kw",
+    "firebaseIosAppId": "1:1025689363688:ios:d8f80fc6560caa290b155d",
+    "firebaseIosMessagingSenderId": "1025689363688",
+    "firebaseIosProjectId": "sup-prod",
+    "firebaseIosStorageBucket": "sup-prod.firebasestorage.app",
+    "firebaseIosIosBundleId": "com.islez.sup"
+  }
+  

@@ -1,0 +1,22 @@
+{
+    "flavor": "stg",
+    "googleServices": "google-services-Stg.json",
+    "appName": "sup. テスト",
+    "appIdSuffix": ".stg",
+    "appId": "com.islez.sup",
+    "api":"https://stg.sup-api.com",
+
+    "firebaseAndroidApiKey": "AIzaSyC0Z2E1aQ0eDyU9DLuAgAK0UVJWruvXtYg",
+    "firebaseAndroidAppId": "1:1026944020289:android:c25f362ef511fe126dbbc0",
+    "firebaseAndroidMessagingSenderId": "1026944020289",
+    "firebaseAndroidProjectId": "sup-stg",
+    "firebaseAndroidStorageBucket": "sup-stg.firebasestorage.app",
+
+    "firebaseIosAppIdKey": "app-1-1026944020289-ios-30694504a8b4e2cc6dbbc0",
+    "firebaseIosApiKey": "AIzaSyBP7sE7YfAWxzUfZp0YwCYx7_tR0Ul6sYw",
+    "firebaseIosAppId": "1:1026944020289:ios:30694504a8b4e2cc6dbbc0",
+    "firebaseIosMessagingSenderId": "1026944020289",
+    "firebaseIosProjectId": "sup-stg",
+    "firebaseIosStorageBucket": "sup-stg.firebasestorage.app",
+    "firebaseIosIosBundleId": "com.islez.sup.stg"
+}

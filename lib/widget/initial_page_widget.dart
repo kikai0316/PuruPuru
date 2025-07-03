@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:sup_frontend/component/app_component.dart';
-import 'package:sup_frontend/component/button_component.dart';
-import 'package:sup_frontend/component/image_component.dart';
-import 'package:sup_frontend/component/widget_component.dart';
-import 'package:sup_frontend/constant/app_constant.dart';
-import 'package:sup_frontend/constant/color_constant.dart';
+import 'package:purupuru/component/app_component.dart';
+import 'package:purupuru/component/button_component.dart';
+import 'package:purupuru/component/image_component.dart';
+import 'package:purupuru/component/widget_component.dart';
+import 'package:purupuru/constant/app_constant.dart';
+import 'package:purupuru/constant/color_constant.dart';
 
 //ボトムナビゲーターのボックス
 Widget navigationBarWidget(BuildContext context,

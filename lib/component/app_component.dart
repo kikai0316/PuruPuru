@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sup_frontend/constant/color_constant.dart';
+import 'package:purupuru/constant/color_constant.dart';
 
 //使いやすいようにまとめました。normal-Spacing=nSpacing
 //Padding,Marginの両方の大きさを変えるときに使用する。

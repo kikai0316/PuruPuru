@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:sup_frontend/component/image_component.dart';
-import 'package:sup_frontend/component/widget_component.dart';
-import 'package:sup_frontend/constant/app_constant.dart';
-import 'package:sup_frontend/constant/color_constant.dart';
+import 'package:purupuru/component/image_component.dart';
+import 'package:purupuru/component/widget_component.dart';
+import 'package:purupuru/constant/app_constant.dart';
+import 'package:purupuru/constant/color_constant.dart';
 
 //推したら一瞬薄くなるアニメーション付きボタン
 class CustomAnimatedOpacityButton extends HookConsumerWidget {
