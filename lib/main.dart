@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:purupuru/view/initial_page.dart';
+import 'package:purupuru/view/test_home.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -24,10 +25,7 @@ class MyApp extends HookConsumerWidget {
       //   // '/initial': (context) => const InitialPage(),
       // },
       debugShowCheckedModeBanner: false,
-      home: Surveillance(
-        onForeground: () async {},
-        onBackground: () async {},
-      ),
+      home: TestHomePage(),
     );
   }
 }

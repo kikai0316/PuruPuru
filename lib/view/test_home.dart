@@ -6,8 +6,8 @@ import 'package:purupuru/view/account_page.dart';
 import 'package:purupuru/view/home_page.dart';
 import 'package:purupuru/widget/initial_page_widget.dart';
 
-class InitialPage extends HookConsumerWidget {
-  const InitialPage({
+class TestHomePage extends HookConsumerWidget {
+  const TestHomePage({
     super.key,
   });
 
